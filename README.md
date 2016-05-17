@@ -1,6 +1,6 @@
 This package allows users to specify terms to the gtrends parser object to download, process google trends data.
 
-*Note - There isn't an official Google trends API - this is just another way to get the data - please play nice when you use the code.*
+*Note - There isn't an official Google trends API (at the moment)- this is just another way to get the data - please play nice when you use the code.*
 
 The methods within the code give access to the data objects that may be of interest to you
 
