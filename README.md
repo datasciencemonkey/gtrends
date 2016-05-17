@@ -6,7 +6,7 @@ The methods within the code give access to the data objects that may be of inter
 
 An example of how the package can be used -
 
-##### Instantiate Parser Object
+Instantiate Parser Object & run all the methods below (copy paste to make it easy) & then select the object that is of interest to you
 
 myParserObject = gTrends_Parser(google_terms)
 
@@ -21,9 +21,9 @@ myParserObject.full_blob_dict   - *has the entire data blob as a raw un-processe
 
 myParserObject.table_data_dict  - *has just the raw data*
 
-myParserObject.get_column_names()  - *parses and displays the column names*
+myParserObject.get_column_names()  - *to process and display column names*
 
-myParserObject.get_row_values()  - *parses and displays row values*
+myParserObject.get_row_values()  - *to process and displays row values*
 
 myParserObject.get_data_frame_raw()  - *reads and converts data into a raw data frame - Dates still need to be processed*
 
