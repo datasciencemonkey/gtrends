@@ -6,7 +6,7 @@ The methods within the code give access to the data objects that may be of inter
 
 An example of how the package can be used -
 
-Instantiate Parser Object & run all the methods below (copy paste to make it easy) & then select the object that is of interest to you
+* Instantiate Parser Object & run all the methods below (copy paste to make it easy) & then select the object that is of interest to you
 
 myParserObject = gTrends_Parser(google_terms)
 
