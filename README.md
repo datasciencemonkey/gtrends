@@ -8,7 +8,7 @@ An example of how the package can be used -
 
 * Instantiate Parser Object & run all the methods below (copy paste to make it easy) & then select the object that is of interest to you
 
--- just pass in the actual terms you want to query seperated by a comma-- for example: google_terms = coffee, chocolate
+-- just pass in the actual terms you want to query seperated by a comma-- for example: google_terms = 'coffee, chocolate'
 
 myParserObject = gTrends_Parser(google_terms)  
 
